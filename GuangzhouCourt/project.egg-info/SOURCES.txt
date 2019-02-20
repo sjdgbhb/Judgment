@@ -1,0 +1,16 @@
+setup.py
+GuangzhouCourt/__init__.py
+GuangzhouCourt/items.py
+GuangzhouCourt/middlewares.py
+GuangzhouCourt/pipelines.py
+GuangzhouCourt/settings.py
+GuangzhouCourt/spiders/__init__.py
+GuangzhouCourt/spiders/judgment.py
+GuangzhouCourt/utils/__init__.py
+GuangzhouCourt/utils/download.py
+GuangzhouCourt/utils/user_agent_pool.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
